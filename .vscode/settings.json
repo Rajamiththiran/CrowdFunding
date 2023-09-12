@@ -1,0 +1,10 @@
+{
+    "cSpell.enableFiletypes": [
+        "sql",
+        "Solidity"
+    ],
+    
+        "editor.suggestOnTriggerCharacters": true
+    
+    
+}
