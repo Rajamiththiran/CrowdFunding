@@ -4,7 +4,10 @@
         "Solidity"
     ],
     
-        "editor.suggestOnTriggerCharacters": true
+        "editor.suggestOnTriggerCharacters": true,
+        "cSpell.words": [
+            "thirdweb"
+        ]
     
     
 }
