@@ -1,13 +1,6 @@
 {
-    "cSpell.enableFiletypes": [
-        "sql",
-        "Solidity"
-    ],
-    
-        "editor.suggestOnTriggerCharacters": true,
-        "cSpell.words": [
-            "thirdweb"
-        ]
-    
-    
+  "cSpell.enableFiletypes": ["sql", "Solidity"],
+
+  "editor.suggestOnTriggerCharacters": true,
+  "cSpell.words": ["tailwindcss", "thirdweb"]
 }
